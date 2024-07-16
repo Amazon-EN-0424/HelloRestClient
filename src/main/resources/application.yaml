@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: HelloRC
+
+dictionary:
+  api:
+    base-url: https://api.dictionaryapi.dev/api/v2/
